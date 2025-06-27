@@ -4,6 +4,7 @@ I am a versatile developer with a strong passion for emerging technologies, clou
 
 #### 👨‍💻 Current Professional role
 
+
 Currently, I am part of the development team at [OWQLO](https://github.com/owqlo), working on a Single Page Application (SPA) system for the comprehensive management of sports institutions and clubs. The project features advanced functionalities for integrating multiple services and administrative workflows in the sports sector.
 
 **Key responsibilities and technologies:**
