@@ -66,6 +66,8 @@ Join me as I explore and build the future with technology!
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lpenate&theme=default&hide_border=false)<br/>
 
+<img src='https://www.gitclear.com/snap_changelogs/b02dd34c-b375-42b5-a1c0-bbfaac42917b.png' />
+
 
 
 ## 🏆 GitHub Trophies
