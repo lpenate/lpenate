@@ -48,7 +48,7 @@ Join me as I explore and build the future with technology!
 🖼️ Frameworks
 
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
-[![React](https://img.shields.io/badge/React-4FC08D?logo=react&logoColor=fff)](#)
+[![React](https://img.shields.io/badge/React-4FC08D?logo=react&logoColor=blue)](#)
 [![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
@@ -70,7 +70,7 @@ Join me as I explore and build the future with technology!
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
 
 ☁️ Cloud System
-
+[![Azure](https://img.shields.io/badge/Azure-039BE5?logo=Azure&logoColor=blue)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)
