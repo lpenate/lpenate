@@ -2,7 +2,7 @@
 
 I am a versatile developer with a strong passion for emerging technologies, cloud solutions, and artificial intelligence. My curiosity drives me to continuously explore new tools and frameworks, allowing me to adapt quickly and deliver innovative solutions. I thrive in dynamic environments where technology is constantly evolving, and I am always eager to contribute to projects that push the boundaries of what is possible with modern software development.
 
-#### 👨‍💻 Professional Experience
+#### 👨‍💻 Current Professional role
 
 Currently, I am part of the development team at [OWQLO](https://github.com/owqlo), working on a Single Page Application (SPA) system for the comprehensive management of sports institutions and clubs. The project features advanced functionalities for integrating multiple services and administrative workflows in the sports sector.
 
@@ -13,7 +13,7 @@ Currently, I am part of the development team at [OWQLO](https://github.com/owqlo
 - Structuring and consuming real-time databases with **Firebase**
 - Developing and maintaining backend services with **Node.js** and **Express**, ensuring efficient integration between frontend and backend
 
-#### 🚀 Projects
+#### 🚀 Personal projects
 
 **QuizIA – Reinventing Learning with AI**
 
