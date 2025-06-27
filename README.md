@@ -66,8 +66,10 @@ Join me as I explore and build the future with technology!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lpenate&theme=default&hide_border=false)<br/>
 
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lpenate&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+
 
 
 
