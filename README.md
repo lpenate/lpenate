@@ -65,7 +65,7 @@ Join me as I explore and build the future with technology!
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lpenate&theme=default&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=1&count_weight=0&langs_count=10&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=1&count_weight=0&langs_count=10&layout=donut&hide=HTML,CSS)
 
 
 
