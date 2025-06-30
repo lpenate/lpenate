@@ -93,7 +93,7 @@ Join me as I explore and build the future with technology!
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lpenate)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpenate&size_weight=0&count_weight=1&langs_count=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpenate&size_weight=0&count_weight=1)
 
 
 
